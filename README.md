@@ -1,4 +1,4 @@
-# CNN-Training_an_MLP_on_MNIST
+# CNN-Training_an_MLP_on_MNIST 
 Convolutional Neural Network -Training an MLP on MNIST
 A multilayer perceptron (MLP) is a class of feedforward artificial neural network. A MLP consists of at least three layers of nodes: an input layer, a hidden layer and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function. MLP utilizes a supervised learning technique called  backpropagation for training. Its multiple layers and non-linear activation distinguish MLP from a linear perceptron. It can distinguish data that is not linearly separable.
 
